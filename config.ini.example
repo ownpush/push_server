@@ -1,0 +1,9 @@
+[redisinfo]
+host = 172.17.0.2
+port = 6379
+
+[serversettings]
+debug = false
+timeout = 900
+delay = 600
+secret = change_me

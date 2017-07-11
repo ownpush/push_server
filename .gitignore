@@ -1,0 +1,5 @@
+*.pyc
+venv
+config.ini
+mydatabase.sqlite
+.idea

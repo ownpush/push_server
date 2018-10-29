@@ -8,7 +8,7 @@ pycparser==2.14
 PyNaCl==0.3.0
 python-editor==0.5
 redis==2.10.5
-requests==2.9.1
+requests>=2.20.0
 six==1.10.0
 SQLAlchemy==1.0.11
 tornado==4.3
